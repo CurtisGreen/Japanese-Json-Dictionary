@@ -101,20 +101,20 @@ function simplify(word) {
   if (word.sense) {
     output.sense = word.sense;
 
-    for (const s of word.sense) {
-      for (const g of s.gloss) {
-        if (Object.keys(g).length > 1) {
-          console.log(g);
-        }
-      }
-    }
+    // for (const s of word.sense) {
+    //   for (const g of s.gloss) {
+    //     if (Object.keys(g).length > 1) {
+    //       console.log(g);
+    //     }
+    //   }
+    // }
   }
   return output;
 }
 
 const dict = await readFile("./jmdict-eng-common-3.1.0.json");
 console.log(dict.words.length, "words");
-const cleanWords = cleanupWords(dict.words.slice(0, 20));
+const cleanWords = cleanupWords(dict.words);
 const simpleWords = cleanWords.map(simplify);
 
 await writeFile("SimpleJmdict.json", simpleWords);
