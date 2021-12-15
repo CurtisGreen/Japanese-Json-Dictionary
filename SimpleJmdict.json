@@ -1,0 +1,393 @@
+[
+  {
+    "kanji": [{ "text": "ＣＤプレーヤー" }],
+    "kana": [
+      { "text": "シーディープレーヤー", "appliesToKanji": ["ＣＤプレーヤー"] }
+    ],
+    "sense": [{ "partOfSpeech": ["n"], "gloss": [{ "text": "CD player" }] }]
+  },
+  {
+    "kanji": [{ "text": "Ｔシャツ" }],
+    "kana": [{ "text": "ティーシャツ" }],
+    "sense": [{ "partOfSpeech": ["n"], "gloss": [{ "text": "T-shirt" }] }]
+  },
+  {
+    "kanji": [{ "text": "Ｔバック" }],
+    "kana": [{ "text": "ティーバック" }],
+    "sense": [
+      {
+        "partOfSpeech": ["n"],
+        "gloss": [{ "text": "T-back" }, { "text": "bikini thong" }]
+      }
+    ]
+  },
+  {
+    "kanji": [{ "text": "明白" }],
+    "kana": [{ "text": "めいはく" }],
+    "sense": [
+      {
+        "partOfSpeech": ["adj-na"],
+        "gloss": [
+          { "text": "obvious" },
+          { "text": "clear" },
+          { "text": "plain" },
+          { "text": "evident" },
+          { "text": "apparent" },
+          { "text": "explicit" },
+          { "text": "overt" }
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [{ "text": "彼処" }],
+    "kana": [{ "text": "あそこ" }],
+    "sense": [
+      {
+        "partOfSpeech": ["pn"],
+        "related": [
+          ["どこ", 1],
+          ["ここ", 1],
+          ["そこ", 1]
+        ],
+        "misc": ["uk"],
+        "gloss": [
+          {
+            "text": "there (place physically distant from both speaker and listener)"
+          },
+          { "text": "over there" },
+          { "text": "that place" },
+          { "text": "yonder" },
+          { "text": "you-know-where" }
+        ]
+      },
+      {
+        "partOfSpeech": ["n"],
+        "appliesToKana": ["あそこ", "あすこ", "アソコ"],
+        "misc": ["col", "uk"],
+        "gloss": [
+          { "text": "genitals" },
+          { "text": "private parts" },
+          { "text": "nether regions" }
+        ]
+      },
+      {
+        "partOfSpeech": ["n"],
+        "related": [["あれほど"]],
+        "misc": ["uk"],
+        "gloss": [
+          {
+            "text": "that far (something psychologically distant from both speaker and listener)"
+          },
+          { "text": "that much" },
+          { "text": "that point" }
+        ]
+      }
+    ]
+  },
+  {
+    "kana": [{ "text": "あっさり" }],
+    "sense": [
+      {
+        "partOfSpeech": ["adv", "adv-to", "vs"],
+        "misc": ["on-mim"],
+        "gloss": [
+          { "text": "easily" },
+          { "text": "readily" },
+          { "text": "quickly" },
+          { "text": "flatly (refuse)" }
+        ]
+      },
+      {
+        "partOfSpeech": ["adv", "adv-to", "vs"],
+        "misc": ["on-mim"],
+        "gloss": [
+          { "text": "lightly (seasoned food, applied make-up, etc.)" },
+          { "text": "plainly" },
+          { "text": "simply" }
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [{ "text": "あっという間に" }],
+    "kana": [
+      {
+        "text": "あっというまに",
+        "appliesToKanji": ["あっという間に", "あっと言う間に"]
+      }
+    ],
+    "sense": [
+      {
+        "partOfSpeech": ["exp", "adv"],
+        "gloss": [
+          { "text": "just like that" },
+          { "text": "in the twinkling of an eye" },
+          { "text": "in the blink of an eye" },
+          { "type": "literal", "text": "in the time it takes to say \"ah!\"" }
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [{ "text": "彼の" }],
+    "kana": [{ "text": "あの" }],
+    "sense": [
+      {
+        "partOfSpeech": ["adj-pn"],
+        "related": [["どの"], ["この", 1], ["その", 1]],
+        "misc": ["uk"],
+        "info": [
+          "someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener"
+        ],
+        "gloss": [{ "text": "that" }, { "text": "those" }, { "text": "the" }]
+      }
+    ]
+  },
+  {
+    "kana": [{ "text": "あの" }, { "text": "あのー" }],
+    "sense": [
+      {
+        "partOfSpeech": ["int"],
+        "gloss": [
+          { "text": "say" },
+          { "text": "well" },
+          { "text": "um" },
+          { "text": "er" }
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [{ "text": "あの人" }],
+    "kana": [{ "text": "あのひと" }],
+    "sense": [
+      {
+        "partOfSpeech": ["pn"],
+        "info": ["sometimes of one's spouse or partner"],
+        "gloss": [
+          { "text": "he" },
+          { "text": "she" },
+          { "text": "that person" }
+        ]
+      },
+      { "partOfSpeech": ["pn"], "misc": ["arch"], "gloss": [{ "text": "you" }] }
+    ]
+  },
+  {
+    "kanji": [{ "text": "あの方" }],
+    "kana": [{ "text": "あのかた" }],
+    "sense": [
+      {
+        "partOfSpeech": ["pn"],
+        "misc": ["hon"],
+        "gloss": [
+          { "text": "that gentleman" },
+          { "text": "that lady" },
+          { "text": "he" },
+          { "text": "she" }
+        ]
+      }
+    ]
+  },
+  {
+    "kana": [{ "text": "あべこべ" }],
+    "sense": [
+      {
+        "partOfSpeech": ["adj-no", "adj-na", "n"],
+        "misc": ["on-mim"],
+        "gloss": [
+          { "text": "contrary" },
+          { "text": "opposite" },
+          { "text": "inverse" },
+          { "text": "reverse" },
+          { "text": "back-to-front" }
+        ]
+      }
+    ]
+  },
+  {
+    "kana": [{ "text": "あやふや" }],
+    "sense": [
+      {
+        "partOfSpeech": ["adj-na", "n"],
+        "misc": ["on-mim"],
+        "gloss": [
+          { "text": "uncertain" },
+          { "text": "vague" },
+          { "text": "ambiguous" }
+        ]
+      }
+    ]
+  },
+  {
+    "kana": [{ "text": "あら" }],
+    "sense": [
+      {
+        "partOfSpeech": ["int"],
+        "misc": ["fem"],
+        "gloss": [{ "text": "oh" }, { "text": "ah" }]
+      }
+    ]
+  },
+  {
+    "kanji": [{ "text": "彼" }],
+    "kana": [{ "text": "あれ" }],
+    "sense": [
+      {
+        "partOfSpeech": ["pn"],
+        "related": [
+          ["何れ", 1],
+          ["此れ", 1],
+          ["其れ", 1]
+        ],
+        "misc": ["uk"],
+        "gloss": [
+          {
+            "text": "that (indicating something distant from both speaker and listener (in space, time or psychologically), or something understood without naming it directly)"
+          }
+        ]
+      },
+      {
+        "partOfSpeech": ["pn"],
+        "info": ["used to refer to one's equals or inferiors"],
+        "gloss": [{ "text": "that person" }]
+      },
+      {
+        "partOfSpeech": ["pn"],
+        "misc": ["arch"],
+        "gloss": [{ "text": "over there" }]
+      },
+      {
+        "partOfSpeech": ["n"],
+        "appliesToKana": ["あれ"],
+        "misc": ["col"],
+        "gloss": [{ "text": "down there (i.e. one's genitals)" }]
+      },
+      {
+        "partOfSpeech": ["n"],
+        "appliesToKana": ["あれ"],
+        "misc": ["col"],
+        "gloss": [{ "text": "period" }, { "text": "menses" }]
+      },
+      {
+        "partOfSpeech": ["int"],
+        "misc": ["uk"],
+        "info": ["expression of surprise, suspicion, etc."],
+        "gloss": [{ "text": "hey" }, { "text": "huh?" }, { "text": "eh?" }]
+      }
+    ]
+  },
+  {
+    "kana": [{ "text": "あんな" }],
+    "sense": [
+      {
+        "partOfSpeech": ["adj-pn"],
+        "related": [["あんなに"], ["こんな"], ["そんな", 1], ["どんな", 1]],
+        "info": [
+          "about something or someone distant from both speaker and listener, or about a situation unfamiliar to both speaker and listener"
+        ],
+        "gloss": [
+          { "text": "such" },
+          { "text": "so" },
+          { "text": "that sort of" },
+          { "text": "that kind of" },
+          { "text": "like that" }
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [{ "text": "否々" }],
+    "kana": [{ "text": "いやいや" }],
+    "sense": [
+      {
+        "partOfSpeech": ["int"],
+        "related": [["嫌々", "いやいや", 3]],
+        "misc": ["uk"],
+        "gloss": [
+          { "text": "no!" },
+          { "text": "no no!" },
+          { "text": "no, not at all" }
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [{ "text": "如何にも" }],
+    "kana": [{ "text": "いかにも" }],
+    "sense": [
+      {
+        "partOfSpeech": ["adv"],
+        "misc": ["uk"],
+        "info": ["indicating emotive conviction"],
+        "gloss": [
+          { "text": "indeed" },
+          { "text": "really" },
+          { "text": "truly" },
+          { "text": "just (like)" }
+        ]
+      },
+      {
+        "partOfSpeech": ["adv"],
+        "misc": ["uk"],
+        "gloss": [
+          { "text": "very" },
+          { "text": "extremely" },
+          { "text": "totally" },
+          { "text": "terribly" }
+        ]
+      },
+      {
+        "partOfSpeech": ["adv", "int"],
+        "misc": ["uk"],
+        "info": ["indicating agreement"],
+        "gloss": [
+          { "text": "absolutely" },
+          { "text": "certainly" },
+          { "text": "for sure" }
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [{ "text": "行けない" }],
+    "kana": [{ "text": "いけない" }],
+    "sense": [
+      {
+        "partOfSpeech": ["exp"],
+        "misc": ["uk"],
+        "gloss": [
+          { "text": "wrong" },
+          { "text": "not good" },
+          { "text": "of no use" }
+        ]
+      },
+      {
+        "partOfSpeech": ["exp"],
+        "misc": ["uk"],
+        "gloss": [{ "text": "hopeless" }, { "text": "past hope" }]
+      },
+      {
+        "partOfSpeech": ["exp"],
+        "misc": ["uk"],
+        "gloss": [{ "text": "must not do" }]
+      }
+    ]
+  },
+  {
+    "kana": [{ "text": "いざこざ" }],
+    "sense": [
+      {
+        "partOfSpeech": ["n"],
+        "gloss": [
+          { "text": "trouble" },
+          { "text": "quarrel" },
+          { "text": "difficulties" },
+          { "text": "complication" },
+          { "text": "tangle" }
+        ]
+      }
+    ]
+  }
+]
