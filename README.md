@@ -10,4 +10,5 @@ Jmdict has been simplified to only include common readings for common words and 
 `node SimplifyJmdict`
 
 Input: jmdict-eng-common-3.1.0.json
+
 Output: SimpleJmdict.json
